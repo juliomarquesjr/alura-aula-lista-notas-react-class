@@ -1,4 +1,4 @@
-# Exercicio Para Criação de Lista com as Anotações
+# Lista de Notas - Aula Alura
 Projeto com base nas aulas do curso de React da Alura
 
 ## Recursos Utilizados
