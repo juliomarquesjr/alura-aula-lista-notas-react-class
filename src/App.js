@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import Formulario from './components/Formulario/';
 import TabelaNotas from './components/TabelaNotas/';
 import './assets/App.css';
-import './assets/css/bootstrap.min.css'
-import Logo from "./assets/img/reactjs.png"
+import Logo from "./assets/img/reactjs.png";
 
 class App extends Component {
   constructor() {
